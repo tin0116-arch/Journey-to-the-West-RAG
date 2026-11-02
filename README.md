@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/你的GitHub帳號/Journey-to-the-West-RAG/blob/main/RAG02_西遊記_Gradio問答.ipynb)
+
 # 🐒 悟空成長檔案館｜《西遊記》前七回 RAG 問答
 
 ## 專案內容
